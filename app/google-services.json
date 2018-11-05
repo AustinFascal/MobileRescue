@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "510359747130",
+    "firebase_url": "https://mobile-rescue-project.firebaseio.com",
+    "project_id": "mobile-rescue-project",
+    "storage_bucket": "mobile-rescue-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510359747130:android:14e8db30cc18329a",
+        "android_client_info": {
+          "package_name": "com.austinstudio.mobilerescue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510359747130-prlfggjgh6t84cp5ku3jn1lj7vcskaru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJUhBtgBch5REhNHhg24Ec5HfAPip3kt4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
